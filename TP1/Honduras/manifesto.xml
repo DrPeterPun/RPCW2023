@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifesto>
+    <meta>
+        <titulo> Trabalho Prático 1 </titulo>
+        <subtitulo> Página Web sobre as Honduras</subtitulo>
+        <data> 2023-05-12 </data>
+        <autor>
+            <nome> Pedro Pereira </nome>
+            <id>A80376</id>
+            <gitlink> https://github.com/DrPeterPun/RPCW2023 </gitlink>
+        </autor>
+        <uc> Representação e Processamento de Conhecimento na Web </uc>
+    </meta>
+    <resumo>
+        <p> Este projeto consiste na criacao de uma pagina web sobre as Honduras. Apresenta alguns factos sobre as principais cidades e culinaria</p>
+    </resumo>
+    <resultados>
+        <resultado path="index.html">Ficheiro HTML</resultado>
+        <resultado path="style.css">Ficheiro CSS</resultado>
+    </resultados>
+</manifesto>
