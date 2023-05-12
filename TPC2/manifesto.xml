@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifesto>
+    <meta>
+        <titulo> Trabalho Prático 2 </titulo>
+        <subtitulo> Página Web sobre as Honduras</subtitulo>
+        <data> 2023-05-12 </data>
+        <autor>
+            <nome> Pedro Pereira </nome>
+            <id>A80376</id>
+            <gitlink> https://github.com/DrPeterPun/RPCW2023 </gitlink>
+        </autor>
+        <uc> Representação e Processamento de Conhecimento na Web </uc>
+    </meta>
+    <resumo>
+        <p> Este projeto consiste na criacao de uma pagina web sobre as Honduras. Apresenta alguns factos sobre as principais cidades e culinaria</p>
+        <p> Este projeto consiste primeiro no parsing de um ficheiro xml com BeatifulSoup e na criacao de varias paginas html a aprtir desse mesmo ficheiro. Depois foi feito um indice que refere para todas as paginas criadas.</p>
+        <p> por ultimo foi feito um servidor em js que serve as paginas</p>
+    </resumo>
+    <resultados>
+        <resultado path="parse.py">Script que faz o parsing e cria as paginas html</resultado>
+        <resultado path="server.js">Servidor em java script que serve os ficheiros</resultado>
+        <resultado path="arq.xml"> Dataset em xml</resultado>
+        <resultado path="arqs">Pasta com as varias paginas html</resultado>
+        <resultado path="index.html">Pagina html que serve de root, tem refs para as outras paginas todas</resultado>
+    </resultados>
+</manifesto>
