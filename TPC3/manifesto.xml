@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifesto>
+    <meta>
+        <titulo> Trabalho Prático 3 </titulo>
+        <subtitulo> Página Web sobre as Honduras</subtitulo>
+        <data> 2023-05-12 </data>
+        <autor>
+            <nome> Pedro Pereira </nome>
+            <id>A80376</id>
+            <gitlink> https://github.com/DrPeterPun/RPCW2023 </gitlink>
+        </autor>
+        <uc> Representação e Processamento de Conhecimento na Web </uc>
+    </meta>
+    <resumo>
+        <p>Este projeto consiste num site que recebe pedidos, e culsulta uma API para gerar as paginas html que servem de resposta ao mesmos</p>
+    </resumo>
+    <resultados>
+        <resultado path="pessoas_server.js"> Script que inicia o website e recebe todos os pedidos </resultado>
+        <resultado path="mypages.js">Script que crias as paginas html</resultado>
+        <resultado path="arq.xml"> Dataset utilizado</resultado>
+    </resultados>
+</manifesto>

@@ -12,7 +12,6 @@
         <uc> Representação e Processamento de Conhecimento na Web </uc>
     </meta>
     <resumo>
-        <p> Este projeto consiste na criacao de uma pagina web sobre as Honduras. Apresenta alguns factos sobre as principais cidades e culinaria</p>
         <p> Este projeto consiste primeiro no parsing de um ficheiro xml com BeatifulSoup e na criacao de varias paginas html a aprtir desse mesmo ficheiro. Depois foi feito um indice que refere para todas as paginas criadas.</p>
         <p> por ultimo foi feito um servidor em js que serve as paginas</p>
     </resumo>
